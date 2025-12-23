@@ -2,9 +2,6 @@
 title: Testzap
 excerpt:
 publishDate: '2025-11-01T18:23:01.217Z'
-tags:
-  - gis
-  - qgis
 seo:
   image:
     src: '/post-image.jpg'

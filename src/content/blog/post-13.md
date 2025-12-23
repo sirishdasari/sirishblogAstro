@@ -2,15 +2,17 @@
 title: 'A Guide to Web Performance Metrics'
 excerpt: Dive deep into web performance metrics, including tools and techniques for measuring and optimizing loading times. Discuss the significance of metrics like First Contentful Paint, Time to Interactive, and more.
 publishDate: 'Jan 03 2024'
-tags: [Web, Guide]
+tags:
+  - Web
+  - Guide
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/post-13.jpg'
+    src: '/post-13.jpg'
     alt: Abstract snow
 ---
 
-![Abstract snow](../../assets/images/post-13.jpg)
+![Abstract snow](/post-13.jpg)
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
